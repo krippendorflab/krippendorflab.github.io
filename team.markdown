@@ -6,7 +6,7 @@ permalink: /team/
 
 I am very happy to be working with the following students:
 
-- Marc Syvaeri (PhD student): Symmetries <-> ML
+- Marc Syvaeri (PhD student): Symmetries $$ \cap $$ <-> ML
 - Rene Kroepsch (Master student) 
 - Sebastian Meyer (Master student)
 - Simon Schallmoser (Master student, co-supervised with Jochen Weller)
