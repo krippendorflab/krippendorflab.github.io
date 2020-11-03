@@ -6,7 +6,7 @@ permalink: /team/
 
 I am very happy to be working with the following students:
 
-- Marc Syvaeri (PhD student): Symmetries $\cap$ ML
+- Marc Syvaeri (PhD student): Symmetries   $$ \cap $$   ML
 - Rene Kroepsch (Master student): 
 - Sebastian Meyer (Master student)
 - Simon Schallmoser (Master student, co-supervised with Jochen Weller)
@@ -16,7 +16,7 @@ I am very happy to be working with the following students:
 Former students in our team were:
 
 - Philip Betzler (PhD student)
-- Mathis Gerdes (Master student): Differential geometry $$\cap$$ ML 
+- Mathis Gerdes (Master student): Differential geometry $$ \cap $$ ML 
 - Kai Gipp (Bachelor student)
 
 
