@@ -39,6 +39,16 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      mathjax: true
+  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
