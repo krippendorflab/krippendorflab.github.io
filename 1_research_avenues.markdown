@@ -3,7 +3,9 @@ layout: default
 title: Research
 ---
 
-Descriptions
+Broadly speaking my work is on Physics <-> Machine Learning.
+
+These pages shall provide a bit more information on what we are working on (current research) and where this work has emerged from (past research).
 
 {% for themes in site.research_avenues %}
 
