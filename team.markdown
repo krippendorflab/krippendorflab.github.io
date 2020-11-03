@@ -2,16 +2,12 @@
 layout: page
 title: Team
 permalink: /team/
-math: true
 ---
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
 I am very happy to be working with the following students:
 
-- Marc Syvaeri (PhD student): Symmetries   $$ \cap $$   ML
-- Rene Kroepsch (Master student): 
+- Marc Syvaeri (PhD student): Symmetries <-> ML
+- Rene Kroepsch (Master student) 
 - Sebastian Meyer (Master student)
 - Simon Schallmoser (Master student, co-supervised with Jochen Weller)
 - Felix Schmid (Master student)
@@ -20,7 +16,7 @@ I am very happy to be working with the following students:
 Former students in our team were:
 
 - Philip Betzler (PhD student)
-- Mathis Gerdes (Master student): Differential geometry $$ \cap $$ ML 
+- Mathis Gerdes (Master student): Differential geometry <-> ML 
 - Kai Gipp (Bachelor student)
 
 
