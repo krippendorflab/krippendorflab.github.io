@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Research
+permalink: /research/
 ---
 
 Broadly speaking my work is on Physics &cap; Machine Learning.
@@ -15,4 +16,6 @@ These pages shall provide a bit more information on what we are working on (curr
 
 <p class="post-excerpt">{{ themes.description | truncate: 160 }}</p>
 
-{% endfor %}  
+{% endfor %}
+
+If you want to hear more about research in this direction, tune in to [physicsmeetsml.org](www.physicsmeetsml.org) which I am co-organising.
