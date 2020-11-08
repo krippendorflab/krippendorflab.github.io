@@ -10,3 +10,9 @@ Dualities naturally connect with Machine Learning as follows: The dual weakly co
 1. Do neural networks utilise these "meaningful" dual physics representations or how can we force them to find such representations?
 
 2. How can we utilise deep architectures to find "new" dualities not yet known in physics?
+
+
+## [Connecting Dualities and Machine Learning](https://arxiv.org/abs/2002.05169)
+### Philip Betzler, Sven Krippendorf
+
+Dualities are widely used in quantum field theories and string theory to obtain correlation functions at high accuracy. Here we present examples where dual data representations are useful in supervised classification, linking machine learning and typical tasks in theoretical physics. We then discuss how such beneficial representations can be enforced in the latent dimension of neural networks. We find that additional contributions to the loss based on feature separation, feature matching with respect to desired representations, and a good performance on a ‘simple’ correlation function can lead to known and unknown dual representations. This is the first proof of concept that computers can find dualities. We discuss how our examples, based on discrete Fourier transformation and Ising models, connect to other dualities in theoretical physics, for instance Seiberg duality.

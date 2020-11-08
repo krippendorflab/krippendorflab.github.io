@@ -14,3 +14,9 @@ To get an idea of what are the typical signatures we need to study samples from 
 2) How to sample the vast set of solutions even in a class of string theory solutions?
 
 Although traditional techniques have been applied to this problem for decades with steady progress (see my publication list for work in this direction), numerical methods seem inevitable in sampling this set efficiently. Recent ML advances in sampling from high-dimensional distributions (e.g. image sampling via GANs and Invertible NNs/flows) seem a promising new direction and we are working on using these techniques to gain new insights on our string theory solutions.
+
+
+## [GANs for generating EFT models](https://arxiv.org/abs/1809.02612)
+### Harold Erbin, Sven Krippendorf 
+
+We initiate a way of generating effective field theories (EFT) models by the computer, satisfying both experimental and theoretical constraints. We use Generative Adversarial Networks (GAN) and display generated instances which go beyond the examples known to the machine during training. As a starting point, we apply this idea to the generation of supersymmetric field theories with a single field. We find cases where the number of minima in the generated scalar potential is different from values found in the training data. We comment on potential further applications of this framework.
