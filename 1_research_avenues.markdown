@@ -18,4 +18,4 @@ These pages shall provide a bit more information on what we are working on (curr
 
 {% endfor %}
 
-If you want to hear more about research in this direction, tune in to [physicsmeetsml.org](www.physicsmeetsml.org) which I am co-organising.
+If you want to hear more about research in this direction, tune in to [physicsmeetsml.org](http://www.physicsmeetsml.org) which I am co-organising.
