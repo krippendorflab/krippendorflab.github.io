@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<img style="float: right;" src="images/profile01.jpg">
+
 I am a physicist with a passion for artificial intelligence.
 
 I work on a variety of topics in ranging from mathematical physics, cosmology, particle phenomenology to astrophysics. Nowadays, most of my time is spent at the interface of physics and machine learning. 
