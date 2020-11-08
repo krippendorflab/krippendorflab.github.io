@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float: right;" src="{{site.url}}images/profile01.JPG">
+<img style="float: right;" src="{{site.url}}images/profile01.JPG" width=20% height=auto>
 
 I am a physicist with a passion for artificial intelligence.
 
