@@ -11,6 +11,7 @@ This has been the major conference for most of my research where I was invited a
 2014 (ICTP), 2017 (Virginia Tech), 2018 (Warsaw), 2019 (CERN), 2020 (Northeastern)
 
 #### Conferences with Machine Learning Focus
+String_Data 2020, CERN (December 2020).
 XAIENCE 2019, Crossing over the AI and Science, Seoul (Nov. 2019). First French–
 German Meeting in Physics, Mathematics and Artificial Intelligence Theory, Paris (Nov.
 2019). Deep Learning and Physics (DLAP 2019), Kyoto (Oct. 2019). Workshop on Machine
@@ -19,7 +20,7 @@ University, Boston, USA), invited plenary talk and leader of break-out group (No
 
 #### International conferences
 Conference on Recent Developments in Strings and Gravity, Corfu (Sep. 2019).
-Conference on Geometry and Strings, Ringberg Castle (July 2018). Grand Unification ink
+Conference on Geometry and Strings, Ringberg Castle (July 2018). Grand Unification in
 the Real World BCTP, Bonn. Post-inflationary string cosmology, University of Bologna
 (Sept. 2017). Gordon Research Conference on String Theory & Cosmology (Lucca, Italy),
 plenary talk due to poster prize (May 2017). String/M-theory Compactifications and
