@@ -16,6 +16,11 @@ To get an idea of what are the typical signatures we need to study samples from 
 Although traditional techniques have been applied to this problem for decades with steady progress (see my publication list for work in this direction), numerical methods seem inevitable in sampling this set efficiently. Recent ML advances in sampling from high-dimensional distributions (e.g. image sampling via GANs and Invertible NNs/flows) seem a promising new direction and we are working on using these techniques to gain new insights on our string theory solutions.
 
 
+### [Moduli-dependent Calabi-Yau and SU(3)-structure metrics from Machine Learning](https://arxiv.org/abs/2012.04656)
+#### Harold Erbin, Sven Krippendorf 
+
+We use machine learning to approximate Calabi-Yau and SU(3)-structure metrics, including for the first time complex structure moduli dependence. Our new methods furthermore improve existing numerical approximations in terms of accuracy and speed. Knowing these metrics has numerous applications, ranging from computations of crucial aspects of the effective field theory of string compactifications such as the canonical normalizations for Yukawa couplings, and the massive string spectrum which plays a crucial role in swampland conjectures, to mirror symmetry and the SYZ conjecture. In the case of SU(3) structure, our machine learning approach allows us to engineer metrics with certain torsion properties. Our methods are demonstrated for Calabi-Yau and SU(3)-structure manifolds based on a one-parameter family of quintic hypersurfaces in P4.
+
 ### [GANs for generating EFT models](https://arxiv.org/abs/1809.02612)
 #### Harold Erbin, Sven Krippendorf 
 
