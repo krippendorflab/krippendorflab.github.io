@@ -17,7 +17,7 @@ I am very happy to be working with the following students:
 Former students in our team were:
 
 - Philip Betzler (PhD student)
-- Mathis Gerdes (Master student): Differential geometry &cap; ML 
+- [Mathis Gerdes](https://mathisgerdes.github.io) (Master student): Differential geometry &cap; ML 
 - Kai Gipp (Bachelor student)
 
 
