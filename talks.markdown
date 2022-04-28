@@ -8,9 +8,12 @@ Here you can find a selection of the talks I have given, including invited semin
 
 #### String Phenomenology
 This has been the major conference for most of my research where I was invited as plenary speaker:
-2014 (ICTP), 2017 (Virginia Tech), 2018 (Warsaw), 2019 (CERN), 2020 (Northeastern)
+2014 (ICTP), 2017 (Virginia Tech), 2018 (Warsaw), 2019 (CERN), 2020 (Northeastern), 2021 (Northeastern)
 
 #### Conferences with Machine Learning Focus
+String_Data 2021, Wits (December 2021).
+ML4JETS, Heidelberg (July 2021).
+Sanya Workshop on Algebraic Geometry and Machine Learning (virtual, January 2021).
 String_Data 2020, CERN (December 2020).
 XAIENCE 2019, Crossing over the AI and Science, Seoul (Nov. 2019). First French–
 German Meeting in Physics, Mathematics and Artificial Intelligence Theory, Paris (Nov.
@@ -19,6 +22,8 @@ Learning in Geometry and Physics (Sanya, China). Big data in string theory (Nort
 University, Boston, USA), invited plenary talk and leader of break-out group (Nov. 2017).
 
 #### International conferences
+YITP workshop "Strings and Fields 2021", Kyoto (August 2021).
+Nankai Symposium: Mathematical Dialogues (June 2021).
 Conference on Recent Developments in Strings and Gravity, Corfu (Sep. 2019).
 Conference on Geometry and Strings, Ringberg Castle (July 2018). Grand Unification in
 the Real World BCTP, Bonn. Post-inflationary string cosmology, University of Bologna
@@ -29,11 +34,13 @@ String Phenomenology, Madrid (September 2012), String Phenomenology, Simons
 Center Stony Brook (April 2012)
 
 #### Colloquia
+MIT, IAIFI Colloquium (2021)
+University of Stuttgart, ICP colloquium (2021)
 University of Cambridge, DAMTP HEP/GR colloquium (2018)
 University of Surrey, Departmental Colloquium in Mathematics (2018)
 
 #### Invited Seminars
-ETH Zürich, DESY, Tsinghua University, University of Oxford, LMU Munich, Liverpool
+UW Madison, Northeastern, Queen Mary London, University of Lisbon, ETH Zürich, DESY, Tsinghua University, University of Oxford, LMU Munich, Liverpool
 University, HRI Allahabad, Bologna University, JGU Mainz, TU Munich, University of Bonn,
 ITP Heidelberg, DAMTP Cambridge, ICTP Trieste
 
