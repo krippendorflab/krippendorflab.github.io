@@ -6,6 +6,9 @@ permalink: /teaching/
 
 Here is a summary of the courses I have taught (more details to follow).
 
+#### AI lab
+Designed and managed a new lab course where students can get hands-on experience in machine learning applications in physics. This is an essential component of the new Master specialisation in artificial intelligence (more information can be found [here](https://www.physik.lmu.de/en/studies/study-programs/ai-in-physics.html)).
+
 #### Machine Learning in Fundamental Physics
 Full lecture course providing an introduction to Machine Learning and its contemporary application in the physical sciences for Physics students. I have designed this new Master's course and taught in the summer term 2019, 2020, and 2021 at LMU Munich.
 
