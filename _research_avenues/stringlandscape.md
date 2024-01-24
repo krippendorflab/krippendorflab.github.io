@@ -17,6 +17,8 @@ Although traditional techniques have been applied to this problem for decades wi
 
 We have used RL and genetic algorithms to tackle the inverse problem of the string landscape, i.e. to sample vacua with particular phenomenological properties. We demonstrate that these methods can reveal novel structures (symmetries) in such string theory solutions.
 
+This *new* perspective on sampling string theory vacua also allows us to investigate more general physics questions such as which mechanisms to address hierarchy problems in particle physics and cosmology do exist in such string theory constructions. Our string theory explorations are a first testing example for more general beyond the standard model explorations once we have adapted machine learning methods appropriately to sample such model spaces.
+
 
 ### [Moduli-dependent Calabi-Yau and SU(3)-structure metrics from Machine Learning](https://arxiv.org/abs/2012.04656)
 #### Lara B. Anderson, Mathis Gerdes, James Gray, Sven Krippendorf, Nikhil Raghuram, Fabian Ruehle 

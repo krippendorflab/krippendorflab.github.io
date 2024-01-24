@@ -14,6 +14,20 @@ By trying to figure out which features your ML algorithm is using and which simp
 In particular, this is about constraining axion-like particles, one promising dark matter candidate, and this is about improving phenomenological models used in astrophysics to sharpen our predictions on &Lambda;CDM cosmological parameters.
 
 
+### [The eROSITA Final Equatorial-Depth Survey (eFEDS): A Machine Learning Approach to Infer Galaxy Cluster Masses from eROSITA X-ray Images](https://arxiv.org/abs/2305.00016)
+#### Sven Krippendorf, Nicolas Baron Perez, Esra Bulbul, Melih Kara, Riccardo Seppi, Johan Comparat, Emmanuel Artis, Y. Emre Bahar, Christian Garrel, Vittorio Ghirardini, Matthias Kluge, Ang Liu, Miriam E. Ramos-Ceja, Jeremy Sanders, Xiaoyuan Zhang, Marcus Brüggen, Sebastian Grandis, Jochen Weller
+
+We develop a neural network based pipeline to estimate masses of galaxy clusters with a known redshift directly from photon information in X-rays. Our neural networks are trained using supervised learning on simulations of eROSITA observations, focusing in this
+paper on the Final Equatorial Depth Survey (eFEDS). We use convolutional neural networks which are modified to include additional
+information of the cluster, in particular its redshift. In contrast to existing work, we utilize simulations including background and point
+sources to develop a tool which is usable directly on observational eROSITA data for an extended mass range from group size halos to
+massive clusters with masses. Using this method, we are able to provide for the first time neural
+network mass estimation for the observed eFEDS cluster sample from Spectrum-Roentgen-Gamma/eROSITA observations and we
+find consistent performance with weak lensing calibrated masses. In this measurement, we do not use weak lensing information and
+we only use previous cluster mass information which was used to calibrate the cluster properties in the simulations. When compared
+to simulated data, we observe a reduced scatter with respect to luminosity and count-rate based scaling relations. We comment on the
+application for other upcoming eROSITA All-Sky Survey observations.
+
 ### [Accelerating the search for Axion-Like Particles with machine learning](https://arxiv.org/abs/1907.07642)
 #### Francesca Day, Sven Krippendorf
 
