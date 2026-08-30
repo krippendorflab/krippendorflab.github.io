@@ -4,18 +4,23 @@ title: Biography
 permalink: /bio/
 ---
 
-**Research positions:**
+Sven Krippendorf is Assistant Teaching Professor for AI and Physics at the
+University of Cambridge. He is based primarily in the Department of Applied
+Mathematics and Theoretical Physics (DAMTP) and is also affiliated with the
+Department of Physics. He heads Mathematical AI at the
+Cambridge–Infosys AI Centre.
 
-- Since 10/2017: Senior Postdoctoral Researcher, LMU Munich (Prof. Dieter Lüst)
-- 10/2014-9/2017: Postdoctoral Researcher, University of Oxford (Prof. Joseph Conlon)
-- 10/2011-9/2014: Postdoctoral Researcher, University of Bonn (Prof. Hans Peter Nilles)
+His research brings together fundamental physics, mathematical structure and
+machine learning.
 
+## Previous positions
 
-**Education:**
+- **2017–2024:** Senior Postdoctoral Researcher, LMU Munich
+- **2014–2017:** Postdoctoral Researcher, University of Oxford
+- **2011–2014:** Postdoctoral Researcher, University of Bonn
 
-- 9/2007-7/2011: PhD in Applied Mathematics and Theoretical Physics, DAMTP, University of Cambridge (Supervisor: Prof. Fernando Quevedo)
-- 10/2006-7/2007: Part III of the Mathematical Tripos (Master of Advanced Study in Mathematics)
-- 10/2003-9/2006: Physics at the University of Cologne
+## Education
 
-*trivia fact: my PhD was actually the first degree I received.*
-
+After studying physics at the University of Cologne, Sven completed Part III of
+the Mathematical Tripos at Cambridge and remained at DAMTP for a PhD in applied
+mathematics and theoretical physics under the supervision of Fernando Quevedo.

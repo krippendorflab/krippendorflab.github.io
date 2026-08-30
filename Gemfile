@@ -8,6 +8,8 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.1.1"
+# ffi 1.13 predates current macOS; 1.16 remains compatible with Ruby 2.6.
+gem "ffi", "~> 1.16.3"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -27,4 +29,3 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-

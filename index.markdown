@@ -5,10 +5,26 @@
 layout: home
 ---
 
-<img style="float: right;" src="{{site.url}}images/profile01.JPG" width="20%" height="auto">
+<img style="float: right;" src="{{ '/images/profile01.JPG' | relative_url }}" width="20%" height="auto" alt="Sven Krippendorf">
 
-I am a physicist with a passion for artificial intelligence.
+## Physics of learning. Machine learning for physics.
 
-I work on a variety of topics in ranging from mathematical physics, cosmology, particle phenomenology to astrophysics. Nowadays, most of my time is spent at the interface of physics and machine learning. 
+We are a research team in the Department of Applied Mathematics and Theoretical
+Physics (DAMTP) at the University of Cambridge, led by Dr Sven Krippendorf.
 
-On this site you can find some information on my activities.
+We study learning systems with the tools of mathematical and theoretical
+physics, and we develop machine-learning and agentic systems to discover
+structure in fundamental physics. Our work combines mathematical analysis,
+physical reasoning and computational experiments.
+
+Sven is Assistant Teaching Professor for AI and Physics and Head of Mathematical
+AI at the Cambridge–Infosys AI Centre. We also deliver online courses,
+in-person teaching and workshops with industry, focused on current developments
+in machine learning. Some of this activity is connected with the Centre, while
+other teaching and workshops are delivered independently.
+
+[Research]({{ '/research/' | relative_url }}) ·
+[People]({{ '/team/' | relative_url }}) ·
+[Cambridge profile](https://www.maths.cam.ac.uk/person/slk38) ·
+[LinkedIn](https://www.linkedin.com/in/sven-krippendorf-347216181/) ·
+[slk38@cam.ac.uk](mailto:slk38@cam.ac.uk)
