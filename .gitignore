@@ -1,5 +1,12 @@
 _site
+.DS_Store
+.bundle
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+_drafts/
 vendor
+node_modules
+.vinext
+.wrangler
+dist

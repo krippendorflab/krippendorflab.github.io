@@ -1,0 +1,18 @@
+<ul class="social-media-list">
+  {%- if site.linkedin_username -%}
+  <li>
+    <a href="https://www.linkedin.com/in/{{ site.linkedin_username | cgi_escape | escape }}">
+      <svg class="svg-icon" aria-hidden="true"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>
+      <span class="username">LinkedIn</span>
+    </a>
+  </li>
+  {%- endif -%}
+  {%- if site.x_username -%}
+  <li>
+    <a href="https://x.com/{{ site.x_username | cgi_escape | escape }}">
+      <svg class="svg-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.487-9.7L0 1.154h7.594l5.243 6.817L18.901 1.153Zm-1.291 19.49h2.039L6.486 3.24H4.298L17.61 20.644Z"/></svg>
+      <span class="username">X</span>
+    </a>
+  </li>
+  {%- endif -%}
+</ul>
